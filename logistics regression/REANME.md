@@ -1,4 +1,5 @@
- 
+# http://blog.csdn.net/zouxy09/article/details/20319673
+
 逻辑回归 
 用于预测可能性，根据危险因素预测某种疾病发生的概率。
  
